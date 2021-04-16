@@ -57,5 +57,5 @@
 ## Bugs Encontrados
 
 # Diseño
-## Diagrama de Clases
-Agregar imagen
+## Diagrama de Clases Inicial
+![Diagrama](Diagrama.png)

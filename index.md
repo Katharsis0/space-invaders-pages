@@ -1,14 +1,14 @@
 # Proyecto Programado 1 Space Invaders
 ## Desarrolladores:
-- [Daniel Serrano Cañas](https://github.com/dansecan25) 
-- [Sebastian Hidalgo Vargas](https://github.com/Katharsis0)
-- [Daniel Andres Zuñiga Barahona](https://github.com/danyazunigab)
-- [Adriana María Calderón Barboza](https://github.com/cuadriante) 
+- [Adriana María Calderón Barboza (2020036728)](https://github.com/cuadriante) 
+- [Sebastian Hidalgo Vargas (2019176561)](https://github.com/Katharsis0)
+- [Daniel Serrano Cañas (2019031631)](https://github.com/dansecan25) 
+- [Daniel Andres Zuñiga Barahona (2019043724)](https://github.com/danyazunigab)
 
 ## Jira
 [Link a Jira](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1)
 
-## GitHub del Proyecto Programado
+## Repositorio del Proyecto Programado (GitHub)
 [Link al proyecto](https://github.com/dansecan25/Proyecto1-SpaceInvaders)
 
 ## Plan de Iteraciones
@@ -16,27 +16,33 @@
 ## User Story
 ![User story](story.PNG) 
 ## Asignación de Tareas
-- Sebastían:
+- Sebastián:
+  - Diseños:
+     -Imagen Boss colaboración con Adriana
+     -Imagen Enemigos colaboración con Adriana
+  - Lista Enlazada (Single)
   - Lista Doblemente Enlazada
   - Pantalla Game Over
   - Pantalla Ajustes
   - Clase Basic
+  - Clase A
+  
   
 - Adriana:
   - Diseños:
     - Pantalla Ajustes
-    - Imagenes Enemigos colaboración con Sebastian
+    - Imágenes Enemigos colaboración con Sebastián
     - Fondos
-    - Imagenes Boss colaboración con Sebastian
-    - Imagenes Nave Jugador
+    - Imágenes Boss colaboración con Sebastián
+    - Imágenes Nave Jugador
     - Botones
-    - Laser
+    - Láser
     - Ventana de Juego
   - Hilera E y animación de la rotación
   - Gradle
   - Música
   - Nave Usuario
-  - Laser
+  - Láser
 
 - Daniel Serrano:
   - Hilera B
@@ -47,7 +53,7 @@
   - Ventana Principal
   - Ventana de Juego
   - Hilera C
-  - Cambio aleatorio de clase
+  - Cambio aleatorio de clases
 
 - Daniel Zúñiga:
   - Hilera D

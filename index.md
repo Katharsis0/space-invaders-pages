@@ -5,10 +5,12 @@
 - Daniel Andres Zuñiga Barahona
 - Adriana María Calderón Barboza
 
-## Link A Jira
+## Jira
 [Link a Jira](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1)
 
 ## Plan de Iteraciones
+
+
 
 
 

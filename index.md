@@ -1,9 +1,9 @@
 # Proyecto Programado 1 Space Invaders
 ## Desarrolladores:
-- [Adriana María Calderón Barboza (2020036728)](https://github.com/cuadriante) 
-- [Sebastian Hidalgo Vargas (2019176561)](https://github.com/Katharsis0)
-- [Daniel Serrano Cañas (2019031631)](https://github.com/dansecan25) 
-- [Daniel Andres Zuñiga Barahona (2019043724)](https://github.com/danyazunigab)
+- [Calderón Barboza Adriana María (2020036728)](https://github.com/cuadriante) 
+- [Hidalgo VargasSebastian (2019176561)](https://github.com/Katharsis0)
+- [Serrano Cañas Daniel (2019031631)](https://github.com/dansecan25) 
+- [Zúñiga Barahona Daniel Andrés (2019043724)](https://github.com/danyazunigab)
 
 ## Jira
 [Link a Jira](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1)

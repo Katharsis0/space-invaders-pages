@@ -12,9 +12,9 @@
 [Link al proyecto](https://github.com/dansecan25/Proyecto1-SpaceInvaders)
 
 ## Plan de Iteraciones
-
+[Plan de iteraciones](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1/roadmap)
 ## User Story
-
+![User story](story.png) 
 ## Asignación de Tareas
 - Sebastían:
   - Lista Doblemente Enlazada
@@ -55,9 +55,9 @@
   - Clase Boss
   - Nave Enemiga
 
-## Bugs Encontrados
-
-
 # Diseño
 ## Diagrama de Clases Inicial
 ![Diagrama](Diagrama.png)
+
+## Diseño Final
+![Diagrama](Diagrama2.png)

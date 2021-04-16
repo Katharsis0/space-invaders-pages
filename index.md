@@ -10,8 +10,44 @@
 
 ## Plan de Iteraciones
 
+## User Story
 
+## Asignación de Tareas
+- Sebastían:
+  - Lista Doblemente Enlazada
+  - Pantalla Game Over
+  - Pantalla Ajustes
+  - Clase Basic
+  
+- Adriana:
+  - Diseños:
+    - Pantalla Ajustes
+    - Imagenes Enemigos
+    - Fondos
+    - Imagenes Boss colaboración con Sebastian
+    - Imagenes Nave Jugador
+    - Botones
+    - Laser
+    - Ventana de Juego
+  - Hilera E y animación de la rotación
+  - Gradle
+  - Música
+  - Nave Usuario
+  - Laser
 
+- Daniel Serrano:
+  - Hilera B
+  - Niveles
+  - Botones(funcionalidad)
+  - Puntos
+  - Lista Circular
+  - Ventana Principal
+  - Ventana de Juego
+  - Hilera C
+  - Cambio aleatorio de clase
 
-
-
+- Daniel Zúñiga:
+  - Hilera D
+  - Animaciones
+  - Clase Boss
+  - Nave Enemiga

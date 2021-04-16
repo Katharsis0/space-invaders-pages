@@ -8,6 +8,9 @@
 ## Jira
 [Link a Jira](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1)
 
+## GitHub del Proyecto Programado
+[Link al proyecto](https://github.com/dansecan25/Proyecto1-SpaceInvaders)
+
 ## Plan de Iteraciones
 
 ## User Story

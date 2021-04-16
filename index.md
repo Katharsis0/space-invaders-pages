@@ -25,7 +25,7 @@
 - Adriana:
   - Diseños:
     - Pantalla Ajustes
-    - Imagenes Enemigos
+    - Imagenes Enemigos colaboración con Sebastian
     - Fondos
     - Imagenes Boss colaboración con Sebastian
     - Imagenes Nave Jugador

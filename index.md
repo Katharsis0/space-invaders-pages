@@ -51,3 +51,11 @@
   - Animaciones
   - Clase Boss
   - Nave Enemiga
+
+## User Stories
+
+## Bugs Encontrados
+
+# Diseño
+## Diagrama de Clases
+Agregar imagen

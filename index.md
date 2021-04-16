@@ -14,7 +14,7 @@
 ## Plan de Iteraciones
 [Plan de iteraciones](https://projprog1spaceinvaders.atlassian.net/jira/software/projects/SPAC/boards/1/roadmap)
 ## User Story
-![User story](story.png) 
+![User story](story.PNG) 
 ## Asignación de Tareas
 - Sebastían:
   - Lista Doblemente Enlazada
@@ -60,4 +60,4 @@
 ![Diagrama](Diagrama.png)
 
 ## Diseño Final
-![Diagrama](Diagrama2.png)
+![Diagrama](Diagrama2.jpeg)

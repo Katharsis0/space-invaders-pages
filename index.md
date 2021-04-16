@@ -19,7 +19,7 @@
   - Pantalla Ajustes
   - Clase Basic
   
-- Adriana:
+title: "- Adriana:"
   - Diseños:
     - Pantalla Ajustes
     - Imagenes Enemigos

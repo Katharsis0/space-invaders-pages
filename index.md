@@ -1,6 +1,6 @@
 # Proyecto Programado 1 Space Invaders
 ## Desarrolladores:
-- Daniel Serrano Cañas
+- Daniel Serrano Cañas :green_heart:
 - Sebastian Hidalgo Vargas
 - Daniel Andres Zuñiga Barahona
 - Adriana María Calderón Barboza :blue_heart:
